@@ -1,5 +1,5 @@
 {
   "api_endpoint": "https://image.pollinations.ai/prompt/",
-  "system_prefix": "high quality, cybernetic nexus style, 8k, detailed,",
+  "system_prefix": "high quality",
   "default_params": "?nologo=true&private=true"
 }
